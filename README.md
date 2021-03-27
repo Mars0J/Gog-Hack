@@ -8,5 +8,8 @@ Kullanım Ve Tetikleyiciler;
 ```
 xdg-utils
 Linux
+```
 
+```
+./hackggle <domain>
 ```
